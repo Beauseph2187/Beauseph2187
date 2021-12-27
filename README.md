@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Beauseph2187, or Beauseph or Beau.
-- 👀 I’m interested in Python, Cyber Security, A.I., Machine Learning, and Deep Learning!
-- 🌱 I’m currently learning Python and working towards my Sec+ certification!
-- 💞️ I’m looking to collaborate on any Python or Machine Learning or Deep Learning related projects, especially relating to the medical field! 
+- 👀 I’m interested in Python, Cyber Security, Powershell, and System Administration
+- 🌱 I’m currently learning Powershell and working on learning Linux.
+- 💞️ I’m looking to collaborate on any Powershell or Python projects, especially with system administration and process automation
 - 📫 How to reach me: My Twitter handle is Beauseph2187! 
 
 <!---
